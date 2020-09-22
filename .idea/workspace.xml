@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a6886b54-17b7-4bf2-aabf-f8c7b7a0a17f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Task.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Task.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600798454592</updated>
-      <workItem from="1600798455687" duration="8769000" />
+      <workItem from="1600798455687" duration="12122000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600800096907</created>
@@ -200,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600806582592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created taskController.">
+      <created>1600809094342</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600809094342</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,21 +221,22 @@
     <MESSAGE value="db table created." />
     <MESSAGE value="Solved db table's error.&#10;Created task resource." />
     <MESSAGE value="Created TaskStoreRequest." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created TaskStoreRequest." />
+    <MESSAGE value="created taskController." />
+    <option name="LAST_COMMIT_MESSAGE" value="created taskController." />
   </component>
   <component name="WindowStateProjectService">
     <state x="578" y="291" key="#Composer" timestamp="1600798543475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="291" key="#Composer/0.0.1536.824@0.0.1536.824" timestamp="1600798543475" />
-    <state x="498" y="0" key="CommitChangelistDialog2" timestamp="1600806581596">
+    <state x="498" y="0" key="CommitChangelistDialog2" timestamp="1600809093304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600806581596" />
-    <state x="195" y="138" key="NewPhpClassDialog" timestamp="1600803155617">
+    <state x="498" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600809093304" />
+    <state x="195" y="138" key="NewPhpClassDialog" timestamp="1600811045908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="195" y="138" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1600803155617" />
+    <state x="195" y="138" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1600811045908" />
     <state x="721" y="335" key="NewPhpFileDialog" timestamp="1600806289778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
