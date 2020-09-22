@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6886b54-17b7-4bf2-aabf-f8c7b7a0a17f" name="Default Changelist" comment="Created TaskStoreRequest.">
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/TaskStoreRequest.php" afterDir="false" />
+    <list default="true" id="a6886b54-17b7-4bf2-aabf-f8c7b7a0a17f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600798454592</updated>
-      <workItem from="1600798455687" duration="6940000" />
+      <workItem from="1600798455687" duration="8769000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1600800096907</created>
@@ -194,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600806188331</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created TaskStoreRequest.">
+      <created>1600806582592</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600806582592</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,10 +219,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="578" y="291" key="#Composer/0.0.1536.824@0.0.1536.824" timestamp="1600798543475" />
-    <state x="498" y="0" key="CommitChangelistDialog2" timestamp="1600806556819">
+    <state x="498" y="0" key="CommitChangelistDialog2" timestamp="1600806581596">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600806556819" />
+    <state x="498" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600806581596" />
     <state x="195" y="138" key="NewPhpClassDialog" timestamp="1600803155617">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
