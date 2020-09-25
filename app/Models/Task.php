@@ -2,20 +2,22 @@
 
 namespace App\Models;
 
-
 use Illuminate\Database\Eloquent\Model;
-use Illuminate\Database\Eloquent\SoftDeletes;
+use Spatie\Activitylog\Traits\CausesActivity;
+use Spatie\Activitylog\Traits\LogsActivity;
 
 class Task extends Model
 {
-    use SoftDeletes;
+    use LogsActivity;
+    use CausesActivity;
+
     /**
      * @inheritDoc
      */
     protected $fillable = [
         'title',
         'description',
-        'isDone'
+        'isDeleted'
     ];
 
     /**
@@ -27,6 +29,6 @@ class Task extends Model
     public static $labels = [
         'title' => 'Başlık',
         'description' => 'Açıklama',
-        'isDone' => 'Tamamlandı'
+        'isDeleted' => 'Durum'
     ];
 }

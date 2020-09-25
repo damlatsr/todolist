@@ -17,9 +17,8 @@ class CreateTasksTable extends Migration
             $table->id();
             $table->string('title');
             $table->text('description');
-            $table->boolean('isDone')->nullable();
+            $table->boolean('isDeleted')->default(false);
             $table->timestamps();
-            $table->softDeletes();
         });
     }
 
